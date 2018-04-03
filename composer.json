@@ -10,6 +10,9 @@
     "spryker/kernel": "*",
     "spryker/testify": "*"
   },
+  "suggest": {
+    "spryker/kernel": "*"
+  },
   "autoload": {
     "psr-4": {
       "SprykerShop\\": "src/SprykerShop/"
