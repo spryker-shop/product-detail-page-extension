@@ -6,10 +6,8 @@
     "php": ">=7.1"
   },
   "require-dev": {
-    "spryker/symfony": "*"
-  },
-  "suggest": {
-    "spryker/symfony": "3.0.0 for using LanguageSwitcherPluginInterface"
+    "spryker/code-sniffer": "*",
+    "spryker/testify": "*"
   },
   "autoload": {
     "psr-4": {
